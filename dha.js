@@ -708,15 +708,15 @@ headerType: 'LOCATION', locationMessage: { degreesLatitude: '', degreesLongitude
                dha.relayWAMessage(prep)
                break      
  case 'sc':
-              teks = ` Follow Gh Owner Untuk Sc tinggal Frok atau Download Di https://github.com/DhaBotz/`
+              teks = ` Follow Gh Owner Untuk Sc tinggal Frok atau Download Di https://github.com/YANZGANZ/`
               dha.sendMessage(from, teks, text, { quoted : mek })
               break              
  case 'yt':
-              teks = `Jangan Lupa Subrek Yt Owner : https://youtu.be/vVHCBBs6lIs`
+              teks = `Jangan Lupa Subrek Yt Owner : https://youtube.com/channel/UCdTdvjr8-fSP2i_WBbCQjoA`
               dha.sendMessage(from, teks, text, { quoted : mek })
               break                   
  case 'ig':
-              teks = `Jangan Lupa Follow Ig Owner https://instagram.com/yudha_perdana809/\nKalau Ada Keluhan Dm Aja`
+              teks = `Jangan Lupa Follow Ig Owner https://instagram.com/ariff4you_/\nKalau Ada Keluhan Dm Aja`
               dha.sendMessage(from, teks, text, { quoted : mek })
               break                  
 //   INI              
@@ -1251,7 +1251,7 @@ case 'linkgc':
              for (let _ of anu100) {
              dha.sendMessage(_.jid, 
 			{"contentText": `*「 PESAN SIARAN BOT 」*\n\n${body.slice(4)}`,
-			"footerText": '©yudha perdana',
+			"footerText": '©𝒀𝑨𝑵𝒁',
 			"buttons": [
 			{"buttonId": `.menu`,
 			"buttonText": {"displayText": "MENU"
